@@ -1,0 +1,22 @@
+const { useState } = require("react");
+
+const useFetch = (cb) => {
+    const [data, setData] = useState(undefined);
+    const [loading, setLoading] = useState(null);
+    const [error, setError] = useState(null);
+
+    const fn = async() => {
+        setLoading(true)
+        setError(null)
+
+        try {
+            const 
+        } catch (error) {
+            
+        }
+    }
+
+    return {data, loading, error, fn , setData}
+}
+
+export default useFetch

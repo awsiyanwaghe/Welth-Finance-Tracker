@@ -1,0 +1,3 @@
+
+
+export const db = globalThis.prisma || new PrismaCl
