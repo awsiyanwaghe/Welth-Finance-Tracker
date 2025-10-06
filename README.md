@@ -43,6 +43,7 @@ Master your finances with AI-powered tracking and insights. Optimize your spendi
 - **PostgreSQL** - Relational database
 - **Prisma** - Type-safe database ORM
 - **Clerk** - Authentication & user management
+- **Supabase** - PostgreSQL + Auth + Real-time
 
 ### AI & Integrations
 - **Google Generative AI** - Gemini AI for receipt scanning and financial insights
