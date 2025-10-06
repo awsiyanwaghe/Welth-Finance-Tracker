@@ -45,7 +45,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href={"https://github.com/samipevekar"}>
+          <Link href={"https://github.com/awsiyanwaghe"}>
             <Button size={"lg"} variant={"outline"} className="px-6">
               Watch Demo
             </Button>
@@ -54,7 +54,7 @@ const HeroSection = () => {
         <div className="hero-image-wrapper">
           <div ref={imageRef} className="hero-image">
             <Image
-              src={"/banner.jpeg"}
+              src={"/hero.jpg"}
               width={1280}
               height={720}
               alt="Dashboard Preview"

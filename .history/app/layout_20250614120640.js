@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         
         <footer>
           <div>
-            <p>Made with ❤️ by sami</p>
+            <p>Made with ❤️ by Awsiyan</p>
           </div>
         </footer>
       </body>

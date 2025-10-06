@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Welth",
   description: "One stop Finance Platform",
+  icon: "/public/favicon.ico"
 };
 
 export default function RootLayout({ children }) {
@@ -26,7 +27,7 @@ export default function RootLayout({ children }) {
           {/* footer */}
           <footer className="bg-blue-50 py-12 ">
             <div className="container mx-auto px-4 text-center text-gray-600">
-              <p>Made with ❤️ by samipevekar</p>
+              <p>Made with ❤️ by AwsiyanWaghe</p>
             </div>
           </footer>
         </body>

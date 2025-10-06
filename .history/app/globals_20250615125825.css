@@ -120,9 +120,6 @@
     @apply bg-background text-foreground;
   }
 }
-.sami{
-  b
-}
 
 @layer utilities {
   .gradient {
